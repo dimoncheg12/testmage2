@@ -2,7 +2,7 @@
   "name": "dimoncheg12/testmage2",
   "description": "Fondy Magento 2 payment module",
   "type": "magento2-module",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
